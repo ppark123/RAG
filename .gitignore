@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# environments
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# data
+data/
+vectorstore/
+
+# OS files
+.DS_Store
